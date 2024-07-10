@@ -1,9 +1,9 @@
-Typescript
-MUI
-React 18
-React Table
-Axios
-TailwindCSS
-Formik
-Yup
-React Router Dom 6
+- Typescript
+- MUI
+- React 18
+- React Table
+- Axios
+- TailwindCSS
+- Formik
+- Yup
+- React Router Dom 6
